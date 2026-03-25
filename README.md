@@ -1,3 +1,5 @@
+for this project, I have used sublime as an editor and XAMPP for Database and server setup.
+
 This is a beginner‑friendly e‑commerce web application built with PHP and MySQL.
 It demonstrates the basic flow of an online shop:
 
@@ -14,6 +16,7 @@ It demonstrates the basic flow of an online shop:
 🔧 Admin Features – Shop owner can view all orders and update their status.
 
 🚀 Tech Stack
+
 PHP (Core logic)
 
 MySQL (Database)
@@ -22,7 +25,9 @@ HTML (Structure)
 
 CSS (Basic styling, can be extended with Bootstrap/Tailwind later)->Right now I haven't styled this project yet
 
+
 🎯 Future Improvements
+
 Add CSS framework (Bootstrap/Tailwind) for styling
 
 Payment gateway integration
