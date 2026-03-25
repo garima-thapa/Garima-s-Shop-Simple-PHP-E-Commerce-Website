@@ -8,8 +8,8 @@ $result=mysqli_query($conn,"SELECT * FROM products");
 <head>
 	<title>GARIMA'S SHOP</title>
 	<style> 
-	.products{display: flex; flex-warp:warp;}
-	.product{border: 1px solid #ccc; padding:10px; margin:10px,width:200px;}
+	.products{display: flex; flex-wrap: wrap;}
+	.product{border: 1px solid #ccc; padding:10px; margin:10px;width:200px;}
 	img{max-width:100%;}
 </style>
 </head>
