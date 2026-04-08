@@ -1,4 +1,4 @@
- I haven't styled this project yet, I have focuses mainly on core functionality (products, cart, checkout, user login, orders etc) for now.
+ I haven't styled this project yet, I have focused mainly on core functionality (products, cart, checkout, user login, orders etc) for now.
 
 This is a beginner‑friendly e‑commerce web application built with PHP and MySQL.
 It demonstrates the basic flow of an online shop:
